@@ -1,5 +1,5 @@
 <?php 
-namespace Awra;
+namespace App;
 class Main{
 
 public function getQuotes(){
