@@ -1,0 +1,17 @@
+{
+    "name": "bereket/my-own-composer",
+    "description": "Quoates lib test",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Bereket\\MyOwnComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tew Ante",
+            "email": "adgi@gmail.com"
+        }
+    ],
+    "require": {}
+}
