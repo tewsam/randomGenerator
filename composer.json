@@ -1,5 +1,5 @@
 {
-    "name": "sam/my-own-composer",
+    "name": "teweldeberhan/my-own-composer",
     "description": "Quoates lib test",
     "type": "library",
     "autoload": {
