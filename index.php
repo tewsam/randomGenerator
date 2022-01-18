@@ -6,9 +6,9 @@ require_once('vendor/autoload.php');
 
 
  $n=new Main();
-echo $n->getQuotes()['title'];
+echo $n->getQuotes()['author'];
 echo " : ";
-echo $n->getQuotes()['description'];
+echo $n->getQuotes()['quote'];
 
 
 
