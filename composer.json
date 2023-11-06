@@ -1,5 +1,5 @@
 {
-    "name": "teweldeberhan/my-own-composer",
+    "name": "test/my-own-composer",
     "description": "Quoates lib test",
     "type": "library",
     "autoload": {
@@ -9,8 +9,8 @@
     },
     "authors": [
         {
-            "name": "Tew Ante",
-            "email": "adgi@gmail.com"
+            "name": "Jon Doe",
+            "email": "jdoe@gmail.com"
         }
     ],
     "require": {}
